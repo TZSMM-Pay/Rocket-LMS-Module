@@ -1,0 +1,1 @@
+INSERT INTO `payment_channels` (`id`, `title`, `class_name`, `status`, `image`, `credentials`, `currencies`, `created_at`) VALUES (79, 'TZSMMPAY', 'TZSMMPAY', 'active', '/store/1/default_images/payment gateways/TZSMMPAY.png', NULL, '[\"USD\",\"EUR\",\"BDT\",\"INR\",\"PKR\"]', '1654755044')
